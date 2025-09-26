@@ -1,0 +1,18 @@
+#Task2 : sum fo integers from 1 to 50 using loop
+
+#Initialize sum variable
+total = 0
+
+#Use a for loop to iterate from 1 to 50
+for i in range(1, 51):
+    total += i
+
+#Display the final sum
+print("the final sum of integer from 1 to 51 is:",total)
+
+
+
+
+
+
+
